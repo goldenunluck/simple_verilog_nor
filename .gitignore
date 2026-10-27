@@ -1,0 +1,5 @@
+# Ignore compiled simulation binaries
+design_simple_nor
+
+# Ignore wave trace outputs
+*.vcd
